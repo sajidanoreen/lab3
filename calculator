@@ -18,3 +18,10 @@ int a*b;
 Console.WriteLine($"the multiplication of two numbers");
 int a=Convert.ToInt32(Console.Readline());
 int b=Convert.ToInt32(Console.Readline());
+int a;
+int b;
+int a/b;
+Console.WriteLine($"the division of two numbers");
+int a=Convert.ToInt32(Console.Readline());
+int b=Convert.ToInt32(Console.Readline());
+
