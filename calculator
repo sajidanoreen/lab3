@@ -1,8 +1,35 @@
+ addition
 Console.WriteLine("my name is Sajida noreen");
 console.WriteLine("my roll no is 39");  
+=======
+Console.writeLine("my name is Sajida noreen");
+console.writeLine("my roll no is 39");  
+ main
 int a;
 int b;
 int a+b;
 Console.WriteLine($"the addition of two numbers");
 int a=Convert.ToInt32(Console.Readline());
 int b=Convert.ToInt32(Console.Readline());
+ addition
+=======
+int a;
+int b;
+int a-b;
+Console.WriteLine($"the subtraction of two numbers");
+int a=Convert.ToInt32(Console.Readline());
+int b=Convert.ToInt32(Console.Readline());
+int a;
+int b;
+int a*b;
+Console.WriteLine($"the multiplication of two numbers");
+int a=Convert.ToInt32(Console.Readline());
+int b=Convert.ToInt32(Console.Readline());
+int a;
+int b;
+int a/b;
+Console.WriteLine($"the division of two numbers");
+int a=Convert.ToInt32(Console.Readline());
+int b=Convert.ToInt32(Console.Readline());
+
+ main
